@@ -112,7 +112,7 @@ export default function ComposeTweet() {
             onDragEnter={handleDragEnter}
             onDragLeave={handleDragLeave}
             onDrop={handleDrop}
-            placeholder="Que esta pasando"
+            placeholder="What's happening?"
             value={message}
           ></textarea>
 

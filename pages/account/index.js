@@ -36,7 +36,7 @@ export default function PageAccount() {
               onClick1={() => setChange(true)}
               onClick2={() => setChange(false)}
               estado={change}
-              name1={"Tweets"}
+              name1={"Posts"}
               name2={"Likes"}
             />
 

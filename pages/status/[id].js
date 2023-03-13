@@ -61,7 +61,7 @@ export default function TweetPage() {
     <>
       {tweet && (
         <>
-          <Back title="Tweet" />
+          <Back title="Back" />
           <div className="tweets_container">
             <Tweet
               {...tweet}
